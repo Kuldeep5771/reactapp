@@ -111,7 +111,7 @@ function App() {
 
         <section>
 
-          <button>hello cricket lovers</button>
+          <button>welcome cricket lovers</button>
         </section>
 
         <section>
